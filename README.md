@@ -1,10 +1,14 @@
 # lesen
 
 ## Ideas for TTS
-* F5-TTS
-* Soundstorm
 
+- F5-TTS
+- Soundstorm
 
 ## Local
 
-* Local
+- Local
+
+## Setup
+
+Run `./setup_env.sh` to create virtual env and required packages.
